@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "c:\\Users\\user\\Desktop\\FastAPI\\Test1\\env\\Scripts\\python.exe",
+    "git.decorations.enabled": true,
+    "git.enabled": true,
+    "editor.wordWrap": "on",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
+}
