@@ -4,8 +4,8 @@
 ## FastAPI + React 
 
 C'est  application  de mini-chat en temps réel.
-Pour le back-end j'ai  utilisé FastAPI avec Python3, 
-Pour le front-end j'ai utilisé ReactJS
+Pour le back-end nous avons  utilisé FastAPI avec Python3, 
+Pour le front-end avec ReactJS
 
 
 ### backend :
